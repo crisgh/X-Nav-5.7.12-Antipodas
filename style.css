@@ -5,12 +5,9 @@
   margin-left: 80px;
   margin-top: 30px;
  }
- #antipodas {
-   margin-left: 150px;
-  }
  h4,h5{
      text-align: center;
      font-style: oblique;
  }
  h4{ color: #162148;}
- h5 {color: grey};
+ h5 {color: grey;};
